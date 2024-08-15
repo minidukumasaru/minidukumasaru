@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="600" src="![image](https://github.com/user-attachments/assets/46381096-ac12-4223-8c4b-aec184761c50)">
 <h1 align="center">Hi 👋, I'm Minidu Kumasaru</h1>
-<h3 align="center">Student of IJSE</h3>
+<h3 align="center">Student of IJSE-institute of java software engineering</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minidukumasaru&label=Profile%20views&color=0e75b6&style=flat" alt="minidukumasaru" /> </p>
